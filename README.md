@@ -10,7 +10,7 @@ A robot is a mechanical device (software controlled) that uses sensors to guide/
 
 Manipulators are the kind of robots which have a fixed base and manipulate their environment. In simple words they can be undertood as a robot with a fixed base that can move the objects around it such as the industrial arms.
 
-This project has a RRR manipulator i.e. it has three recolute joints and 3 degrees of freedom.
+This project has a RRR manipulator i.e. it has three revolute joints and 3 degrees of freedom.
 
 In robot kinematics, forward kinematics refers to the computation of the pose (position and orientation) of the end-effector using the joint parameters (in this case the three joint angles) by the application of kinematic equations.
 
